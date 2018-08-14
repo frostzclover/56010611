@@ -24,4 +24,4 @@
 
 ![About Us](https://frostzclover.github.io/56010611/56010611%20Picture/webnew5-0.JPG)
 
-[PDF File](https://frostzclover.github.io/56010611/56010611%20Website.pdf)
+[View PDF File](https://frostzclover.github.io/56010611/56010611%20Website.pdf)
