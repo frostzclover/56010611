@@ -4,24 +4,22 @@
 
 ## Home page
 
-![Home](https://frostzclover.github.io/56010611/56010611%20Picture/webnew0.JPG)
+![0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew0.JPG)
 
-![AUTOMATION LAB](https://frostzclover.github.io/56010611/56010611%20Picture/webnew1-0.JPG)
+![1](https://frostzclover.github.io/56010611/56010611%20Picture/webnew1-0.JPG)
 
-![YEAR2-0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew2-0.JPG)
+![2-0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew2-0.JPG)
 
-![YEAR2-1](https://frostzclover.github.io/56010611/56010611%20Picture/webnew2-1.JPG)
+![2-1](https://frostzclover.github.io/56010611/56010611%20Picture/webnew2-1.JPG)
 
-![YEAR2-2](https://frostzclover.github.io/56010611/56010611%20Picture/webnew2-2.JPG)
+![2-2](https://frostzclover.github.io/56010611/56010611%20Picture/webnew2-2.JPG)
 
-![YEAR3-0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew3-0.JPG)
+![3-0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew3-0.JPG)
 
-![YEAR4-0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew4-0.JPG)
+![3-1](https://frostzclover.github.io/56010611/56010611%20Picture/webnew3-1.JPG)
 
-![YEAR4-1](https://frostzclover.github.io/56010611/56010611%20Picture/webnew4-1.JPG)
+![4-0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew4-0.JPG)
 
-## About page
+![4-1](https://frostzclover.github.io/56010611/56010611%20Picture/webnew4-1.JPG)
 
-![About Us](https://frostzclover.github.io/56010611/56010611%20Picture/webnew5-0.JPG)
-
-[View PDF File](https://frostzclover.github.io/56010611/56010611%20Website.pdf)
+![5-0](https://frostzclover.github.io/56010611/56010611%20Picture/webnew5-0.JPG)
