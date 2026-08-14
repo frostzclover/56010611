@@ -1,8 +1,9 @@
 # 56010611
+
 ## Objective
-- This portfolio website serves as a central repository for my academic projects, hands-on workshops, and internship experience completed during my **B.Eng. in Automation Engineering**.
+This portfolio website serves as a central repository showcasing academic projects, hands-on workshops, and internship experience completed during my **B.Eng. in Automation Engineering**.
 
 ### Key Highlights
-- **Engineering Workshops:** Real-world applications in Fundamental Electrical, Electronics, Measurement & Instrument, Process Control, Process Measurement & Monitoring, PLC (Allen-Bradley, Siemens, Mitsubishi), DCS (Azbil, Emerson, Yokogawa), Manufacturing Simulations (Factory I/O).
-- **Internship Experience:** Key takeaways and deliverables from industry internships.
-- **Engineering Projects:** Practical applications including *Temperature Chamber Calibration via WirelessHART* and *Internet-Based Air Pollution Monitoring*.
+- **Engineering Workshops:** Hands-on experience across electrical fundamentals, instrumentation, process control, and system integration utilizing PLCs (Allen-Bradley, Siemens, Mitsubishi), DCS platforms (Azbil, Emerson, Yokogawa), and Factory I/O simulation.
+- **Internship Experience:** Key engineering contributions and deliverables from industrial internships.
+- **Engineering Projects:** Applied engineering capstone projects, featuring *Temperature Chamber Calibration via WirelessHART* and *Internet-Based Air Pollution Monitoring*.
